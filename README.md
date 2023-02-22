@@ -5,6 +5,4 @@ Welcome to blah blah blah
 [Generic page](generic-page-1)
 
 ## Current Projects
-<ul>
-  <li>[Project 1](Product_Page_1)</li>
-<ul>
+- [Project 1](Product_Page_1)
