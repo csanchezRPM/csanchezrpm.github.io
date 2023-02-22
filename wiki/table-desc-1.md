@@ -8,7 +8,7 @@ Table NAME houses blah and we made it because of bluh
   <li><b>Field 3:</b> shows this and calculated like that</li>
   </ul>
   
-  ## Contained in the following reports
+## Contained in the following reports
   <ol>
   <li>Report 1</li>
   <li>Report 2</li>
