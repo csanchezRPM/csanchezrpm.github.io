@@ -1,6 +1,6 @@
 # git-wiki-skeleton
 
-[test page](/wiki/Product_Page_1.md)
+[test page](Product_Page_1.md)
 
 NOTE: it's fully supported by github platform, you don't need to install anything locally
 
